@@ -1,0 +1,9 @@
+.project-name {
+    display: flex;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.project-name > img {
+    max-width: 200px;
+}

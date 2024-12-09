@@ -1,0 +1,22 @@
+.header-bar {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 5px solid #0bd3d3;
+    background-color: #f890e7;
+}
+
+.header-bar > h1 {
+    font-size: 4rem;
+    color: #000000;
+}
+
+.header-bar > nav {
+    font-size: 2rem;
+}
+
+a:hover {
+    color: #d0d0d0;
+}
